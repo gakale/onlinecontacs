@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "951862405692",
+    "firebase_url": "https://onlinecontact-ec9fc.firebaseio.com",
+    "project_id": "onlinecontact-ec9fc",
+    "storage_bucket": "onlinecontact-ec9fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951862405692:android:fe485013e7d63e2f9b7139",
+        "android_client_info": {
+          "package_name": "com.example.onlinecontact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951862405692-0cl5ajb2avt9753a683aar45io5a3jdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV9nrTnPYN4Xf1y7Z4tAkAYUiM7tP3RI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951862405692-0cl5ajb2avt9753a683aar45io5a3jdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
